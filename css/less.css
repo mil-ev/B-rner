@@ -499,7 +499,8 @@ body {
 .nbs-flexisel-inner {
   position: relative;
   overflow: hidden;
-  width: 100%;
+  width: 85%;
+  margin: auto;
 }
 .nbs-flexisel-ul {
   position: relative;
